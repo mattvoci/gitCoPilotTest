@@ -7,7 +7,7 @@ public class Main {
         On January 3, 2022 I added the GitHub CoPilot Plug-in
         This currently in a developers-only phase
 
-        I am on a waitlist to be approved.
+        I am on a wait-list to be approved.
          */
 
         System.out.println("Hello GitHub");
